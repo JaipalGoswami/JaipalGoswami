@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaipalGoswami
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript React js
 
 
 <!---
